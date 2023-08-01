@@ -1,12 +1,6 @@
-## Hi there 👋
+## LEADING PUBLIC-PRIVATE PARTNERSHIP INNOVATION CENTRE IN SOUTHEAST ASIA
 
-<!--
+The Advanced Remanufacturing and Technology Centre (ARTC) is a contemporary platform built upon strong public-private partnerships to translate research into industry applications. It is led by the Agency for Science, Technology, and Research (A*STAR), in partnership with the Nanyang Technological University, Singapore (NTU Singapore). 
 
-**Here are some ideas to get you started:**
+The ARTC is located at Singapore's first eco-business park, JTC CleanTech Park, which is based at the Jurong Innovation District. By providing a collaborative platform that brings together industry players, public sector research institutes, and academia, ARTC bridges technological gaps in the adoption of advanced manufacturing and remanufacturing processes.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
